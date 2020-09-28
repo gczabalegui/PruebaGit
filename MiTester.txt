@@ -1,9 +1,0 @@
-public class MiTester{
-
-	public static void main (String[]args){
-
-		protected auto = new Auto(verde); 
-		System.out.println("El color del auto es: "+auto.getColor());
-
-	}
-}
